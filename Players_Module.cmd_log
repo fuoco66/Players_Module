@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Develop/Xlinx/Components/Players_Module/Players_Module.xst" -ofn "D:/Develop/Xlinx/Components/Players_Module/Players_Module.syr" 
